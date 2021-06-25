@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624624238 source:e:\codeworkshop\codeblock\projectdsalg\graphdijk\main.cpp
+	<algorithm>
+	<iostream>
+	<limits>
+
